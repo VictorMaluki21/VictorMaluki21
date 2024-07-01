@@ -5,6 +5,7 @@
 - 📫 How to reach me (victormaluki27@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: All facts are Fun
+- The project above is made by me while pursuing a Responsive Web Design Certification from FreeCodeCamp.
 
 <!---
 VictorMaluki21/VictorMaluki21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
