@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VictorMaluki21
 - 👀 I’m interested in Website Designing(Front-End and Back-End Development) 
-- 🌱 I’m currently learning Responsive Web Design
+- 🌱 I’m currently learning Front End Development Libraries
 - 💞️ I’m looking to collaborate on Website Designing and Development
 - 📫 How to reach me (victormaluki27@gmail.com)
-- 😄 Pronouns: He
-- ⚡ Fun fact: All facts are Fun
+- 😄 Pronouns: He 
+- ⚡ Fun fact: The only time you clean your skeleton, is when you brush your teeth .! 
 - The project above is made by me while pursuing a Responsive Web Design Certification from FreeCodeCamp.
 
 <!---
