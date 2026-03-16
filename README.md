@@ -1,13 +1,28 @@
-- 👋 Hi, I’m @VictorMaluki21
-- 👀 I’m interested in Website Designing(Front-End and Back-End Development) 
-- 🌱 I’m currently learning Front End Development Libraries
-- 💞️ I’m looking to collaborate on Website Designing and Development
-- 📫 How to reach me (victormaluki27@gmail.com)
-- 😄 Pronouns: He 
-- ⚡ Fun fact: The only time you clean your skeleton, is when you brush your teeth .! 
-- The projects above is made by me while pursuing a Responsive Web Design Certification from FreeCodeCamp.
+Hi, I'm Victor Kilonzo 👋
 
-<!---
-VictorMaluki21/VictorMaluki21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Web Developer | IT Support | Cybersecurity Learner
+
+🎓 BSc Computer Science – Kisii University
+📜 Responsive Web Design – freeCodeCamp
+
+🔐 Currently learning:
+- Web Security
+- SQL Injection prevention
+- Secure backend development
+
+🛠 Tech Stack
+- HTML
+- CSS
+- MySQL
+- Golang
+- Angular
+- Git & GitHub
+
+📂 Featured Projects
+1. Secure Web Login System (JWT Authentication)
+2. Job Board Platform
+3. Personal Portfolio Website
+
+📫 Contact
+Email: Victormaluki27@gmail.com
+Location: Nairobi, Kenya
